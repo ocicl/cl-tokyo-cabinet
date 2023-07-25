@@ -1,0 +1,10 @@
+* cl-tokyo-cabinet
+
+Common Lisp interface to Tokyo Cabinet via CFFI.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/keithj/cl-tokyo-cabinet.git   |
+| commit  | a1310c5  |
+| systems | cl-tokyo-cabinet |
+|---------+-------------------------------------------|
+
