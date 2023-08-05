@@ -4,7 +4,7 @@ Common Lisp interface to Tokyo Cabinet via CFFI.
 
 |---------+-------------------------------------------|
 | source  | git:https://github.com/keithj/cl-tokyo-cabinet.git   |
-| commit  | a1310c5  |
+| commit  | 3b9cd07  |
 | systems | cl-tokyo-cabinet |
 |---------+-------------------------------------------|
 
